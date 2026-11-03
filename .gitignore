@@ -1,0 +1,9 @@
+.cache/
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+sessions/
+diagnosis.json
+compare.json
+results/
